@@ -1,0 +1,15 @@
+{
+  "name": "medico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-Indranil0603:rishavrajj3225/Medico.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
